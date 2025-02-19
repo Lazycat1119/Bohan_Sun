@@ -3,11 +3,11 @@
 title: 孙博涵
 
 # Name pronunciation (optional)
-name_pronunciation: Bohan Sun
+#name_pronunciation: Bohan Sun
 
 # Full name (for SEO)
-first_name: Bohan
-last_name: Sun
+#first_name: Bohan
+#last_name: Sun
 
 # Status emoji
 status:
