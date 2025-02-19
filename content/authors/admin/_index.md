@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 孙博涵
+title: Bohan Sun（孙博涵）
 
 # Name pronunciation (optional)
 #name_pronunciation: Bohan Sun
