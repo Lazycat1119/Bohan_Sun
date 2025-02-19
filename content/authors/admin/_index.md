@@ -72,7 +72,7 @@ education:
       #- lorem ipsum dolor sit amet, consectetur adipiscing elit
       #- lorem ipsum dolor sit amet, consectetur adipiscing elit
       #- lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BEng Robotics Engineering
+  - area: BEng Automation
     institution: Harbin Engineering University
     date_start: 2022-09-01
     date_end: 2026-07-01
@@ -186,5 +186,5 @@ awards:
 
 Hi! I am Bohan Sun (孙博涵), currently a 3th-year undergraduate student majoring in Automation at Harbin Engineering University (expected graduation in July 2026) and doing research at CASIA, supervised by Prof.Guoqi Li.
 
-My research interests mainly focus on machine learning system, especially on the New architecture for LLM(Eg.Mamba).I also curious about speech processing and robotics. I am always seeking for some interesting and valuable research.
+My research interests mainly focus on machine learning system, especially on the new architecture for LLM (Eg.Mamba).I also curious about speech processing and robotics. I am always seeking for some interesting and valuable research.
 
