@@ -36,9 +36,12 @@ sections:
       subtitle: ''
       text: |-
 
-       During my sophomore year, I followed senior students on campus to participate in speech research as an entry point into deep learning. I also self - studied a lot of knowledge related to signal processing and acoustics. Out of my interest in music, I later devoted my energy to the research of singing voice conversion and developed a high - fidelity, fast singing voice conversion system: MCF-SVC. I submitted a paper on it, and here is the demo link. To my delight, our arXiv preprint was cited in the technical report of ByteDance's Seed - Music large model!
+        During my sophomore year, I followed senior students on campus to participate in speech research as an entry point into deep learning. I also self - studied a lot of knowledge related to signal processing and acoustics. Out of my interest in music, I later devoted my energy to the research of singing voice conversion and developed a high - fidelity, fast singing voice conversion system: MCF-SVC. I submitted a paper on it, and here is the demo link. To my delight, our arXiv preprint was cited in the technical report of ByteDance's Seed - Music large model!
+
         However, I still felt that my foundational knowledge was somewhat lacking. To gain a deeper understanding of deep learning, during the summer vacation of my sophomore year, I diligently studied Li Mu's "Dive into Deep Learning" course on Bilibili, and the knowledge I learned and my reflections are recorded in my Zhihu academic year summary.
+
         After the start of my junior year, I led my national college student innovation project team to build our own multimodal input ,emotional interaction - capable digital virtual human based on the Fay Digital Human open - source project. Later, I attended the China Automation Congress in Qingdao, listened to the cutting - edge of the field, and played guitar and sang at the dinner. After returning to school, I participated in the brain - inspired large model project of Prof. Guoqi Li at the Institute of Automation, Chinese Academy of Sciences as a research intern, and was involved in the development of more efficient new large model architectures.
+
         During the winter vacation of my junior year, in addition to completing my internship work, I also participated in a session of the Mathematical Contest in Modeling (MCM) and assisted teacher from the School of Chemistry at Shandong University and student from the School of Environment at Beijing Jiaotong University with data processing tasks.
 
     design:
