@@ -42,7 +42,7 @@ sections:
       text: |-
         During my sophomore year, I followed senior students on campus to participate in speech research as an entry point into deep learning. I also self-studied a lot of knowledge related to signal processing and acoustics. Out of my interest in music, I later devoted my energy to the research of singing voice conversion and developed a high-fidelity, fast singing voice conversion system: MCF-SVC. I submitted a paper on it(Details can be found below), and here is the [demo link](https://lazycat1119.github.io/MCF-SVC-demo/). To my delight, our arXiv preprint was cited in the technical report of ByteDance's [Seed-Music large model](https://arxiv.org/pdf/2409.09214)!
 
-        ![Seed-Music](./bytedance.jpg).
+        ![Seed-Music](./bytedance.png).
 
 
         However, I still felt that my foundational knowledge was somewhat lacking. To gain a deeper understanding of deep learning, during the summer vacation of my sophomore year, I diligently studied Li Mu's ["Dive into Deep Learning"](https://space.bilibili.com/1567748478/lists/358497?type=series) course on Bilibili, and the knowledge I learned and my reflections are recorded in my [Zhihu academic year summary](https://zhuanlan.zhihu.com/p/18643408194).
