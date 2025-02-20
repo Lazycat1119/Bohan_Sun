@@ -159,14 +159,14 @@ languages:
 awards:
   - title: National Scholarship
     url: https://cisse.hrbeu.edu.cn/info/1180/4950.htm
-    date: '2024-10'
+    date: '2024-10-20'
     #awarder: Coursera
     #icon: coursera
     #summary: |
       #I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
   - title:  First Prize in the National College Students Mathematics Competition
     #url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-11'
+    date: '2023-11-11'
     #awarder: edX
     #icon: edx
     #summary: |
@@ -177,7 +177,7 @@ awards:
   - title: 'the Honorable Mention in the Mathematical Contest in Modeling (MCM)'
     #url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     #certificate_url: https://www.datacamp.com
-    date: '2024-01'
+    date: '2024-01-23'
     #awarder: datacamp
     #icon: datacamp
     #summary: |
