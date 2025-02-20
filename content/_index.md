@@ -18,6 +18,11 @@ sections:
       button:
         text: Download CV
         url: uploads/cv.pdf
+
+      button:
+        text: Download Transcript
+        url: uploads/Transcript.pdf
+
     design:
       css_class: dark
       background:
