@@ -16,10 +16,10 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       buttons:
-      - text: Download CV
-      url: uploads/cv.pdf
-      - text: Download Transcript
-      url: uploads/transcript.pdf
+        - text: Download CV
+          url: uploads/cv.pdf
+        - text: Download Transcript
+          url: uploads/transcript.pdf
 
 
     design:
