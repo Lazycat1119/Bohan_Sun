@@ -1,6 +1,5 @@
 ---
-title: 'MCF-SVC: Zero-shot High-Fidelity Singing Voice
- Conversion with Multi-Condition Flow Synthesis'
+title: 'MCF-SVC'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
