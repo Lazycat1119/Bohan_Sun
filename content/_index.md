@@ -16,8 +16,10 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
-        url: uploads/cv.pdf
+        - text: Download CV
+          url: uploads/cv.pdf
+        - text: Download Transcript
+          url: uploads/Transcript.pdf
 
 
     design:
@@ -32,7 +34,7 @@ sections:
           size: cover
           position: center
           parallax: false
-          
+
   - block: markdown
     content:
       title: '📚 My Research'
