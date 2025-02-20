@@ -45,6 +45,9 @@ profiles:
   
   - icon: "custom/zhihu-brands"
     url:  https://www.zhihu.com/people/ssss-49-67/posts 
+
+  - icon: "custom/csdn"
+    url:  https://blog.csdn.net/m0_73678693?type=blog   
   #- icon: brands/linkedin
   #  url: https://www.linkedin.com/
   #- icon: academicons/google-scholar
