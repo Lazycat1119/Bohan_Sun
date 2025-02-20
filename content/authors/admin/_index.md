@@ -39,6 +39,9 @@ profiles:
   #  url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/Lazycat1119
+
+  - icon: brands/weixin
+    url:  uploads/wechat.jpg
   #- icon: brands/linkedin
   #  url: https://www.linkedin.com/
   #- icon: academicons/google-scholar
