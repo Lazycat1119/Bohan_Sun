@@ -42,6 +42,9 @@ profiles:
 
   - icon: brands/weixin
     url:  uploads/wechat.jpg
+  
+  - icon: "custom/zhihu-brands"
+    url:  https://www.zhihu.com/people/ssss-49-67/posts 
   #- icon: brands/linkedin
   #  url: https://www.linkedin.com/
   #- icon: academicons/google-scholar
