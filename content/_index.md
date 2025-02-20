@@ -15,7 +15,7 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      buttons:
+      button:
         text: Download CV
         url: uploads/cv.pdf
 
@@ -31,14 +31,14 @@ sections:
           size: cover
           position: center
           parallax: false
-  
+
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      buttons:
+      button:
         text: Download Transcript
         url: uploads/transcript.pdf
 
@@ -54,7 +54,6 @@ sections:
           size: cover
           position: center
           parallax: false
-
 
 
   - block: markdown
