@@ -22,10 +22,10 @@ publishDate: '2025-01-31T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['journal-article']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
+publication: Submitting to IEEE Signal Processing Letters
 publication_short: In *ICW*
 
 abstract: Singing voice conversion is to convert the source singing voice into the target singing voice except for the content.Currently, flow-based models can complete the task of voice conversion, but they struggle to effectively extract latent variables in the more rhythmically rich and emotionally expressive task of singing voice conversion, while also facing issues with low efficiency in voice processing. In this paper, we propose a high-fidelity flow-based model based on multi-condition feature constraints called MCF-SVC, which enhances the capture of voice details by integrating multiple latent attribute encoders. We also use Multi-stream inverse short-time Fourier transform(MS-iSTFT) instead of traditional vocoder to enhance the speed of voice reconstruction. We have compared the synthesized singing voice of our model with those of other competitive models from multiple dimensions, and our proposed model is highly consistent with the current state-of-the-art, with the demo which is available at https://lazycat1119.github.io/MCF-SVC-demo.
