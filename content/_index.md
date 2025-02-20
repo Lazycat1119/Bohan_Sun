@@ -47,10 +47,10 @@ sections:
         ![Deep Learning](./dl.png)
         After the start of my junior year, I led my national college student innovation project team to build our own multimodal input ,emotional interaction - capable digital virtual human based on the [Fay Digital Human](https://github.com/xszyou/fay) open-source project. Later, I attended the China Automation Congress in Qingdao, listened to the cutting-edge of the field, and played guitar and sang at the dinner. After returning to school, I participated in the brain-inspired large model project of Prof. Guoqi Li at the Institute of Automation, Chinese Academy of Sciences as a research intern, and was involved in the development of more efficient new large model architectures.
         ![fay](./fay.png)
-        ![CAC](./cac.png)
+        ![CAC](./cac.jpg)
         During the winter vacation of my junior year, in addition to completing my internship work, I also participated in a session of the Mathematical Contest in Modeling (MCM) and assisted teacher from the School of Chemistry at Shandong University and student from the School of Environment at Beijing Jiaotong University with data processing tasks.
         ![intern](./intern.png)
-        ![mcm](./mcm.pdf)
+        ![mcm](./mcm.png)
         ![chem](./chem.png)
 
     design:
