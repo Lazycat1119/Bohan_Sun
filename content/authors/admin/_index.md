@@ -135,7 +135,7 @@ awards:
 
 ## About Me
 
-Hi ! I am Bohan Sun (孙博涵), currently a 3th-year undergraduate student majoring in Automation at Harbin Engineering University (expected graduation in July 2026) and interning at CASIA, supervised by Prof.Guoqi Li.
+Hi ! I am Bohan Sun (孙博涵), currently a 3th-year undergraduate student majoring in Automation at Harbin Engineering University (expected graduation in July 2026) and interning at CASIA.
 
 My research interests mainly focus on machine learning system now, especially on the new architecture for LLM (Eg.Mamba).I'm also curious about speech processing and robotics. I am always seeking for some interesting and valuable research.
 
